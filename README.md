@@ -8,4 +8,4 @@
 
 ## 文章
 
-[對 Alpha Camp 課程的心得](https://github.com/teddet0330/blog/issues/1)
+[對 Alpha Camp 課程的心得](https://github.com/teddet0330/blog/issues/1#issue-1466658209)
