@@ -7,3 +7,5 @@
 [使用github强大的issues功能来写博客 #3](https://github.com/zp1112/blog/issues/3)
 
 ## 文章
+
+[對 Alpha Camp 課程的心得](https://github.com/teddet0330/blog/issues/1)
