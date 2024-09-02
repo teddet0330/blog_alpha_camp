@@ -1,4 +1,4 @@
-# blog
+# blog about alpha_camp
 
 參考:
 
